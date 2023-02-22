@@ -462,7 +462,7 @@ footer li a {
   font-family: OpenSans-Regular;
   font-size: small;
   position: relative;
-  margin: 0 200px 0 200px;
+  margin: 0 50px 0 50px;
 }
 .adulth1 {
   text-align: center;
@@ -516,7 +516,7 @@ li a {
 }
 
 .contactGallery {
-  margin: 0px 450px 0px 450px; /*top, right, bottom, left*/
+  padding-left: 10px;
 }
 .contactGallery a {
   color: #03b1f4;
@@ -533,14 +533,4 @@ li a {
 .center-col {
   justify-content: center;
   text-align: center;
-}
-
-@media (max-width: 577) {
-  margin: 0px 10px 0px 10px;
-}
-@media (max-width: 1999px) {
-  margin: 0px 10px 0px 10px;
-}
-@media (mim-width: 1200px) {
-  margin: 0px 450px 0px 450px; /*top, right, bottom, left*/
 }
